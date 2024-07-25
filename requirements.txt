@@ -1,0 +1,12 @@
+cffi==1.16.0
+charset-normalizer==3.3.2
+# cryptography==42.0.8
+pdfminer.six==20240706
+pycparser==2.22
+pypdf==4.2.0
+pdfplumber
+pdf2image
+pytesseract
+Pillow
+spacy
+regex
